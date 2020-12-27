@@ -1,0 +1,141 @@
+BODY {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	SCROLLBAR-FACE-COLOR: #C1C2CD;
+	SCROLLBAR-HIGHLIGHT-COLOR: #ffffff;
+	SCROLLBAR-SHADOW-COLOR: #ffffff;
+	SCROLLBAR-3DLIGHT-COLOR:#ffffff;
+	SCROLLBAR-ARROW-COLOR:#ffffff;
+	SCROLLBAR-TRACK-COLOR: #898A91;
+	SCROLLBAR-DARKSHADOW-COLOR: #9899A7;
+	background-image: url(/images/index_bg.gif);
+    } 
+.body2{
+	background-image: url(/images/index_wbg.gif);
+}
+.top {
+	padding: 5px;
+}
+
+.text {
+	font-size: 12px;
+	color: #333333;
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 18px;
+	font-weight: 100;
+}
+a:link {
+	font-size: 12px;
+	COLOR: #00009c;
+	text-decoration:none;
+	font-size: 12px;
+	font-family: Arial;
+	line-height: 20px;
+}
+a:active {
+	font-size: 12px;
+		color: #00009c;
+	text-decoration: NONE;
+	font-size: 12px; font-family: Arial ;
+	line-height: 20px;
+}
+a:visited {
+	font-size: 12px;
+	COLOR: #00009c;
+	text-decoration:NONE;
+	font-size: 12px; font-family: Arial ;
+	line-height: 20px;
+}
+A:hover {
+	font-size: 12px;
+	color: #80a475;
+	text-decoration: underline;
+	line-height: 20px;
+	
+}
+.B:link {
+	font-size: 12px;
+	COLOR: #333333;
+	text-decoration:none;
+}
+.B:active {
+	font-size: 12px;
+		color: #333333;
+	text-decoration: none;
+}
+.B:visited {
+	font-size: 12px;
+	COLOR: #333333;
+	text-decoration:none;
+}
+.B:hover {
+	font-size: 12px;
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+
+.from {
+	border: 1px solid #333333;
+}
+.table {
+	border: 1px dashed #333333;
+}
+.fromt {
+	border: 1px solid #CCCCCC;
+	list-style-type: none;
+	height: 12px;
+}
+.red {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #006699;
+}
+.table-lin {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 18px;
+	font-weight: 100;
+	color: #333333;
+	background-color: #FFD6C4;
+	border: 2px dashed #996600;
+}
+.title {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.text2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FF0066;
+}
+.border2{  
+font-family: Arial; 
+font-size: 9pt;
+padding-top: 3pt; 
+color=#666666;
+border:solid 1pt; 
+border-color:
+#999999 #999999 
+#999999 #999999; 
+Background-Color:
+#FFB86E}
+
+.border3{  
+font-family: Arial; 
+font-size: 9pt;
+padding-top: 3pt; 
+color=#666666;
+border:solid 1pt; 
+border-color:
+#999999 #999999 
+#999999 #999999; 
+Background-Color:
+#CCCCCC}
+.ca3-bg {
+	background-image: url(/images/casting/ca-3/bg1.gif);
+}
